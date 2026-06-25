@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-valses-de-vienne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Les Valses De Vienne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-valses-de-vienne/) |
+| **Get License** | [Get License For Les Valses De Vienne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-valses-de-vienne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4a10aed8600719327cdd5f346f15efcee07f6ab82c19926a04fce608516e4e2f` |
 | **Timestamp** | June 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
