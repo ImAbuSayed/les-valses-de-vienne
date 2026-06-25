@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-valses-de-vienne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Les Valses De Vienne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-valses-de-vienne/) |
+| **Get License** | [Get a Licensing Quote for Les Valses De Vienne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-valses-de-vienne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Viens avec moi, la nuit est à nous, baby
+> Sous les néons de Paris, tu me rends crazy
+> Un parfum de luxe, l'amour sur le dancefloor
+> On oublie tout, my lady, donne-moi encore
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
